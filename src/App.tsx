@@ -1,5 +1,4 @@
 // src/App.tsx
-import React from "react";
 import { Routes, Route } from "react-router-dom";
 import Auth0ProviderWithHistory from "./auth/Auth0ProviderWithHistory";
 import { TaskProvider } from "./contexts/TaskContext";
